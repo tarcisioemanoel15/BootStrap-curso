@@ -1,0 +1,8 @@
+body {
+  color: aliceblue;
+  background-color: rgb(101, 95, 95);
+}
+
+div.container {
+  padding-top: 65px;
+}
